@@ -90,25 +90,7 @@ Each feature is divided into three main layers:
 
 📂 Project Structure
 
-lib/
-│
-├── core/
-│   ├── constants/
-│   ├── errors/
-│   ├── network/
-│   ├── utils/
-│   └── widgets/
-│
-├── features/
-│   ├── authentication/
-│   ├── trips/
-│   ├── itinerary/
-│   ├── expenses/
-│   ├── packing_list/
-│   ├── explore/
-│   └── profile/
-│
-└── main.dart
+
 
 🔗 APIs
 
@@ -139,7 +121,7 @@ Installation
 
 1. Clone the repository:
 
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/alaaabdulnaser505-blip/TripMate.git
 
 2. Navigate to the project directory:
 
